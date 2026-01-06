@@ -48,3 +48,10 @@ Ligue ou aguarde uma ligação
 | ```--json``` | Gera o Whois em formato de JSON  |
 | ```--sniff``` | Sniffa a ligação com Telegram  |
 | ```--update``` | Checa por novas versões  |
+#
+### Obrigado pela atenção!
+
+<a href='https://t.me/fatalsec' target="_blank"><img alt='telegram' src='https://img.shields.io/badge/fatalsec-100000?style=plastic&logo=telegram&logoColor=white&labelColor=black&color=black'/></a> <a href='https://x.com/F4t4lsec' target="_blank"><img alt='x' src='https://img.shields.io/badge/fatalsec-100000?style=plastic&logo=x&logoColor=white&labelColor=black&color=black'/></a> <a href='https://www.youtube.com/channel/UCVroJZsK3Qrvtvnk7NCKn-A' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/Canal_no youtube-100000?style=plastic&logo=youtube&logoColor=white&labelColor=black&color=black'/></a> <a href='https://www.instagram.com/fatalsec' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/Instagram-100000?style=plastic&logo=instagram&logoColor=white&labelColor=black&color=black'/></a>
+
+### Caso queira me apoiar ^^
+<a href='https://github.com/FatalS3C/FatalS3C/blob/main/my_btc.png?raw=true' target="_blank"><img alt='bitcoin' src='https://img.shields.io/badge/Meu_BTC-100000?style=plastic&logo=bitcoin&logoColor=white&labelColor=black&color=black'/></a> <a href='https://livepix.gg/fatallartes' target="_blank"><img alt='pix' src='https://img.shields.io/badge/LivePix-100000?style=plastic&logo=pix&logoColor=white&labelColor=black&color=black'/></a>
